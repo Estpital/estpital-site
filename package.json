@@ -22,8 +22,5 @@
   },
   "engines": {
     "node": "18.x"
-  },
-  "resolutions": {
-    "vite": "5.2.0"
   }
 }
